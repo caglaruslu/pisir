@@ -1,0 +1,15 @@
+PODS:
+  - Google-Mobile-Ads-SDK (7.30.0)
+  - SwiftSoup (1.7.1)
+
+DEPENDENCIES:
+  - Google-Mobile-Ads-SDK
+  - SwiftSoup
+
+SPEC CHECKSUMS:
+  Google-Mobile-Ads-SDK: 7404f68120ae8682afeb5af001fbf4aad731c78e
+  SwiftSoup: 277f7ef548826e0ca7603a06b30d4a5df3ee0587
+
+PODFILE CHECKSUM: be94ce493ce62ec3629930d7bb961de09f1ac9a1
+
+COCOAPODS: 1.4.0
