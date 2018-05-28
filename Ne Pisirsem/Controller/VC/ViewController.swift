@@ -253,14 +253,6 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
             let tmpButton = self.view.viewWithTag(i) as? UIButton
             tmpButton?.removeFromSuperview()
             
-//            if i != tag{
-//                let tmpButton = self.view.viewWithTag(i) as? UIButton
-//                tmpButton?.removeFromSuperview()
-//
-//                let delButton = self.view.viewWithTag(-i) as? UIButton
-//                delButton?.removeFromSuperview()
-//            }
-            
             
         }
         
