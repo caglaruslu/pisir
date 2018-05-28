@@ -161,7 +161,6 @@
 				A104984520B61F46003F5976 /* Frameworks */,
 				A104984620B61F46003F5976 /* Resources */,
 				34FED9A60A03C72B9C5ADADA /* [CP] Embed Pods Frameworks */,
-				CD48624F6E74390FB6894600 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -253,21 +252,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Ne Pisirsem/Pods-Ne Pisirsem-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		CD48624F6E74390FB6894600 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Ne Pisirsem/Pods-Ne Pisirsem-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
